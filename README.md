@@ -33,7 +33,7 @@
 
 # 📖 [hello-rails-back-end] <a name="about-project"></a>
 
-**[hello-rails-back-end]** is a React front-end with a Rails back-end and connect them to display a random greeting message.
+**[hello-rails-back-end]** is a Rails Back-end with a Rails back-end and connect them to display a random greeting message.
 
 
 ## 🛠 Built With <a name="built-with">Ruby</a>
